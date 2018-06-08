@@ -15,3 +15,7 @@ body
    color: #8a0707 
 }
 
+h2
+{
+    border-bottom: 2px #65ad36 inset
+}

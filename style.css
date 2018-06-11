@@ -1,21 +1,29 @@
 p
 {
 font-size: 1.1em;
+font-style: italic ;
 }
-
-h1
+h1{
+    color:yellow;
+}
+.titre
 {
- font-style: italic   
+ font-style: italic;
+ color: blue;
+}
+#montitre{
+    font-style: italic;
+    color: green;
 }
 
 
 
 body
 {
-   color: #8a0707 
+   color: #8a0707; 
 }
 
 h2
 {
-    border-bottom: 2px #65ad36 inset
+    border-bottom: 2px #65ad36 inset;
 }
